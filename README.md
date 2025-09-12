@@ -16,13 +16,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LucasSantana-Dev&icon=4&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/LucasSantana-Dev/LucasSantana-Dev/output/snake.svg" alt="Snake animation" />
 
 ###
