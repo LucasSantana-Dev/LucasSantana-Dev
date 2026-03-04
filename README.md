@@ -1,21 +1,90 @@
-<h2 align="left">Hi 👋! My name is Lucas but you can call me Luk and I'm a Senior Full Stack Engineer, from Brazil</h2>
-
-# 💫 About Me:
-🔭 I’m currently working on<br>Building large-scale, scalable applications with Node.js, React.js, and AWS at Thoughtworks, focusing on serverless architectures, CI/CD optimization, and high-availability systems that serve thousands of users.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, developer tools, or platforms where I can contribute with full-stack expertise (React + Node + AWS) and learn from other strong engineering teams.<br><br>🫱 I’m looking for help with<br>Deepening my knowledge in advanced DevOps practices, cloud-native services (AWS AppSync, DynamoDB, Cognito), and system design for highly distributed applications.<br><br>🌱 I’m currently learning<br>Clean Architecture, SOLID principles, and expanding my cloud knowledge (AWS advanced services, Java with Springboot for robust backend services and React Native for mobile development).
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devlucassantana/) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat-square&labelColor=171717&logoColor=5cb85c) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat-square&logo=splunk&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=flat-square&logo=SONARLINT&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LucasSantana-Dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LucasSantana-Dev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantana-Dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">Hi 👋 I'm Lucas (Luk)</h1>
+<h3 align="center">Senior Full-Stack Engineer | Node.js • TypeScript • React • AWS Serverless</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LucasSantana-Dev&icon=4&color=1)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+I'm a **Senior Software Engineer at Thoughtworks**, specializing in building scalable, cloud-native applications using **Node.js, TypeScript, React/Next.js, and AWS**.
+
+I focus on clean architecture, high-availability systems, and delivery excellence in distributed teams.
+
+### 🔎 What I Bring to a Team
+
+- 🏗️ Architected backend systems supporting **100k+ monthly users**
+- ⚡ Reduced deployment time by **30%** through CI/CD and serverless optimization
+- 📊 Improved incident response by **40%** via observability (Splunk / CloudWatch)
+- ✅ Increased reliability by **25%** through automated testing strategies
+- 🌍 C2 English | Remote-first | GMT-3 (Brazil)
+
+I combine strong engineering fundamentals with a consultant mindset — prioritizing business impact, scalability, and maintainability.
+
+---
+
+## 🧠 Core Expertise
+
+### Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="36" title="Prisma"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" title="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" title="Figma"/>
+</p>
+
+### DevOps & Quality
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="36" title="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36" title="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" title="Jest"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" title="Linux"/>
+</p>
+
+---
+
+## 🤝 Open To
+
+- Senior Full-Stack / Backend **Contract** opportunities (US/EU/Canada)
+- Collaboration on meaningful open-source projects
+- Cloud-native & system design discussions
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Santana-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlucassantana/)
+[![GitHub](https://img.shields.io/badge/GitHub-LucasSantana--Dev-181717?style=flat-square&logo=github)](https://github.com/LucasSantana-Dev)
+
+📩 lucas.diassantana@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=LucasSantana-Dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=LucasSantana-Dev&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantana-Dev&theme=dark&hide_border=true&layout=compact)
+
+---
+
+> "Engineering is not just about writing code — it's about building systems that scale, last, and create impact."
+
 <img src="https://raw.githubusercontent.com/LucasSantana-Dev/LucasSantana-Dev/output/snake.svg" alt="Snake animation" />
 
-###
+[![](https://visitcount.itsvg.in/api?id=LucasSantana-Dev&icon=4&color=1)](https://visitcount.itsvg.in)
