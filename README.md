@@ -1,89 +1,92 @@
-<h1 align="center">Hi 👋 I'm Lucas (Luk)</h1>
-<h3 align="center">Senior Full-Stack Engineer | Node.js • TypeScript • React • AWS Serverless</h3>
+<h1 align="center">Hi, I'm Lucas (Luk)</h1>
+<h3 align="center">Senior Full-Stack Engineer | Building open-source AI developer tools at <a href="https://github.com/Forge-Space">Forge Space</a></h3>
 
 ---
 
-## 🚀 About Me
+## Currently Building
 
-I'm a **Senior Software Engineer at Thoughtworks**, specializing in building scalable, cloud-native applications using **Node.js, TypeScript, React/Next.js, and AWS**.
+<a href="https://github.com/Forge-Space">
+  <img src="https://brand.forgespace.co/logos/wordmark.svg" alt="Forge Space" height="36">
+</a>
 
-I focus on clean architecture, high-availability systems, and delivery excellence in distributed teams.
+**[Forge Space](https://forgespace.co)** — an open-source Internal Developer Platform that prevents "AI limbo engineering." The ecosystem includes:
 
-### 🔎 What I Bring to a Team
-
-- 🏗️ Architected backend systems supporting **100k+ monthly users**
-- ⚡ Reduced deployment time by **30%** through CI/CD and serverless optimization
-- 📊 Improved incident response by **40%** via observability (Splunk / CloudWatch)
-- ✅ Increased reliability by **25%** through automated testing strategies
-- 🌍 C2 English | Remote-first | GMT-3 (Brazil)
-
-I combine strong engineering fundamentals with a consultant mindset — prioritizing business impact, scalability, and maintainability.
+| Project | What it does | |
+|---------|-------------|---|
+| [**siza**](https://github.com/Forge-Space/siza) | Full-stack AI workspace — generate, integrate, ship | [![CI](https://github.com/Forge-Space/siza/actions/workflows/ci.yml/badge.svg)](https://github.com/Forge-Space/siza/actions/workflows/ci.yml) |
+| [**forge-ai-init**](https://github.com/Forge-Space/forge-ai-init) | AI governance CLI — 119 rules, 10 categories, 7+ languages | [![npm](https://img.shields.io/npm/v/forge-ai-init)](https://www.npmjs.com/package/forge-ai-init) |
+| [**ui-mcp**](https://github.com/Forge-Space/ui-mcp) | MCP server — 32 tools, 502 snippets, brand-aware generation | [![npm](https://img.shields.io/npm/v/@forgespace/ui-mcp)](https://www.npmjs.com/package/@forgespace/ui-mcp) |
+| [**siza-gen**](https://github.com/Forge-Space/siza-gen) | Generation engine — component registry, ML quality scoring | [![npm](https://img.shields.io/npm/v/@forgespace/siza-gen)](https://www.npmjs.com/package/@forgespace/siza-gen) |
+| [**mcp-gateway**](https://github.com/Forge-Space/mcp-gateway) | MCP routing hub — AI-driven tool routing, Docker-ready | [![CI](https://github.com/Forge-Space/mcp-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/Forge-Space/mcp-gateway/actions/workflows/ci.yml) |
 
 ---
 
-## 🧠 Core Expertise
+## About Me
+
+**Senior Software Engineer at Thoughtworks**, specializing in scalable cloud-native applications with **Node.js, TypeScript, React/Next.js, and AWS**.
+
+- Architected backend systems supporting **100k+ monthly users**
+- Reduced deployment time by **30%** through CI/CD and serverless optimization
+- Improved incident response by **40%** via observability (Splunk / CloudWatch)
+- C2 English | Remote-first | GMT-3 (Brazil)
+
+---
+
+## Tech Stack
 
 ### Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" title="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="36" title="Prisma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" title="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
 </p>
 
 ### Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" title="Redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" title="Figma"/>
 </p>
 
 ### DevOps & Quality
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="36" title="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36" title="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="36" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" title="Jest"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" title="Linux"/>
 </p>
 
 ---
 
-## 🤝 Open To
+## Open To
 
-- Senior Full-Stack / Backend **Contract** opportunities (US/EU/Canada)
-- Collaboration on meaningful open-source projects
-- Cloud-native & system design discussions
+- Senior Full-Stack / Backend **contract** opportunities (US/EU/Canada)
+- Collaboration on open-source developer tools
+- Cloud-native and system design discussions
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Santana-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlucassantana/)
-[![GitHub](https://img.shields.io/badge/GitHub-LucasSantana--Dev-181717?style=flat-square&logo=github)](https://github.com/LucasSantana-Dev)
-
-📩 lucas.diassantana@gmail.com
+[![Forge Space](https://img.shields.io/badge/Forge%20Space-forgespace.co-7C3AED?style=flat-square)](https://forgespace.co)
+[![npm](https://img.shields.io/badge/npm-@forgespace-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/org/forgespace)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=LucasSantana-Dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=LucasSantana-Dev&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantana-Dev&theme=dark&hide_border=true&layout=compact)
 
 ---
-
-> "Engineering is not just about writing code — it's about building systems that scale, last, and create impact."
 
 <img src="https://raw.githubusercontent.com/LucasSantana-Dev/LucasSantana-Dev/output/snake.svg" alt="Snake animation" />
 
