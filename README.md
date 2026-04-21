@@ -1,23 +1,18 @@
 <h1 align="center">Hi, I'm Lucas (Luk)</h1>
-<h3 align="center">Senior Full-Stack Engineer | Building open-source AI developer tools at <a href="https://github.com/Forge-Space">Forge Space</a></h3>
+<h3 align="center">Senior Full-Stack Engineer | Building Discord bots, homelab infrastructure, and AI developer tools</h3>
 
 ---
 
-## Currently Building
+## Featured Projects
 
-<a href="https://github.com/Forge-Space">
-  <img src="https://brand.forgespace.co/logos/wordmark.svg" alt="Forge Space" height="36">
-</a>
-
-**[Forge Space](https://forgespace.co)** — an open-source Internal Developer Platform that prevents "AI limbo engineering." The ecosystem includes:
+### Active Open Source
 
 | Project | What it does | |
 |---------|-------------|---|
-| [**siza**](https://github.com/Forge-Space/siza) | Full-stack AI workspace — generate, integrate, ship | [![CI](https://github.com/Forge-Space/siza/actions/workflows/ci.yml/badge.svg)](https://github.com/Forge-Space/siza/actions/workflows/ci.yml) |
-| [**forge-ai-init**](https://github.com/Forge-Space/forge-ai-init) | AI governance CLI — 119 rules, 10 categories, 7+ languages | [![npm](https://img.shields.io/npm/v/forge-ai-init)](https://www.npmjs.com/package/forge-ai-init) |
-| [**ui-mcp**](https://github.com/Forge-Space/ui-mcp) | MCP server — 32 tools, 502 snippets, brand-aware generation | [![npm](https://img.shields.io/npm/v/@forgespace/ui-mcp)](https://www.npmjs.com/package/@forgespace/ui-mcp) |
-| [**siza-gen**](https://github.com/Forge-Space/siza-gen) | Generation engine — component registry, ML quality scoring | [![npm](https://img.shields.io/npm/v/@forgespace/siza-gen)](https://www.npmjs.com/package/@forgespace/siza-gen) |
-| [**mcp-gateway**](https://github.com/Forge-Space/mcp-gateway) | MCP routing hub — AI-driven tool routing, Docker-ready | [![CI](https://github.com/Forge-Space/mcp-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/Forge-Space/mcp-gateway/actions/workflows/ci.yml) |
+| [**Lucky**](https://github.com/LucasSantana-Dev/Lucky) | Discord music bot — playback, playlists, cloud streaming integration | [![CI](https://github.com/LucasSantana-Dev/Lucky/actions/workflows/ci.yml/badge.svg)](https://github.com/LucasSantana-Dev/Lucky/actions) |
+| [**ai-dev-toolkit**](https://github.com/LucasSantana-Dev/ai-dev-toolkit) | AI developer toolkit — skills, hooks, agents, RAG patterns | [![npm](https://img.shields.io/npm/v/ai-dev-toolkit)](https://www.npmjs.com/package/ai-dev-toolkit) |
+| [**homelab**](https://github.com/LucasSantana-Dev/homelab) | Self-hosted infrastructure — k3s, Docker Compose, observability stack | [![CI](https://github.com/LucasSantana-Dev/homelab/actions/workflows/ci.yml/badge.svg)](https://github.com/LucasSantana-Dev/homelab/actions) |
+| [**Craftvaria**](https://github.com/LucasSantana-Dev/Craftvaria) | Minecraft server admin dashboard — player management, world backup automation | [![CI](https://github.com/LucasSantana-Dev/Craftvaria/actions/workflows/ci.yml/badge.svg)](https://github.com/LucasSantana-Dev/Craftvaria/actions) |
 
 ---
 
@@ -75,8 +70,7 @@
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Santana-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlucassantana/)
-[![Forge Space](https://img.shields.io/badge/Forge%20Space-forgespace.co-7C3AED?style=flat-square)](https://forgespace.co)
-[![npm](https://img.shields.io/badge/npm-@forgespace-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/org/forgespace)
+[![GitHub](https://img.shields.io/badge/GitHub-LucasSantana--Dev-333333?style=flat-square&logo=github)](https://github.com/LucasSantana-Dev)
 
 ---
 
