@@ -77,7 +77,6 @@ _Additional private repos (finance tools, infra dashboards, etc.) — available 
 
 ## Certifications & Education
 
-- **AWS Certified Solutions Architect – Professional**
 - **AWS Certified Cloud Practitioner**
 - Bachelor's in Computer Systems — [FIAP](https://www.fiap.com.br/) (2025)
 
