@@ -9,7 +9,7 @@
   <a href="mailto:lucas.diassantana@gmail.com"><img src="https://img.shields.io/badge/Email-lucas.diassantana%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/LucasSantana-Dev"><img src="https://img.shields.io/badge/GitHub-LucasSantana--Dev-333333?style=flat-square&logo=github" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/English-C2-2b9348?style=flat-square" alt="English C2"/>
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Pro-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS SAP"/>
+  <img src="https://img.shields.io/badge/Cloud%Pratictioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS SAP"/>
 </p>
 
 ---
