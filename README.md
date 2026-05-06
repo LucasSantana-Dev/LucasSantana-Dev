@@ -30,8 +30,9 @@ I build secure, scalable cloud-native backends and the full-stack interfaces tha
 
 | Project | What it does | Stack | |
 |---------|--------------|-------|---|
-| [**Lucky**](https://github.com/LucasSantana-Dev/Lucky) | Discord music bot — playback, playlists, cloud streaming | TypeScript · Redis · Discord.js | [![CI](https://github.com/LucasSantana-Dev/Lucky/actions/workflows/ci.yml/badge.svg)](https://github.com/LucasSantana-Dev/Lucky/actions) |
-| [**ai-dev-toolkit**](https://github.com/LucasSantana-Dev/ai-dev-toolkit) | AI-developer workflow — skills, hooks, agents, RAG patterns | Node.js · TypeScript | [![npm](https://img.shields.io/npm/v/ai-dev-toolkit)](https://www.npmjs.com/package/ai-dev-toolkit) |
+| [**Lucky**](https://github.com/LucasSantana-Dev/Lucky) | Self-hosted Discord music bot — Spotify stats, autoplay recommendations, React dashboard, moderation suite | TypeScript · Prisma · Discord.js | [![CI](https://github.com/LucasSantana-Dev/Lucky/actions/workflows/ci.yml/badge.svg)](https://github.com/LucasSantana-Dev/Lucky/actions) |
+| [**LinkedIn Engage**](https://github.com/LucasSantana-Dev/linkedin-engage) | Chrome extension — AI-powered LinkedIn comments (Groq), connection automation, job pre-fill. 423 tests | TypeScript · Chrome MV3 | [![Stars](https://img.shields.io/github/stars/LucasSantana-Dev/linkedin-engage?style=flat-square)](https://github.com/LucasSantana-Dev/linkedin-engage) |
+| [**ForgeKit**](https://github.com/LucasSantana-Dev/forgekit) | AI dev toolkit — rules, skills, and setup for Claude Code, Codex, Cursor, Windsurf, and Copilot | TypeScript · Node.js | [![Stars](https://img.shields.io/github/stars/LucasSantana-Dev/forgekit?style=flat-square)](https://github.com/LucasSantana-Dev/forgekit) |
 | [**homelab**](https://github.com/LucasSantana-Dev/homelab) | Self-hosted infra — Docker Compose, Caddy, Tailscale, Prometheus/Grafana, SOPS | Python · Bash · Docker | [![CI](https://github.com/LucasSantana-Dev/homelab/actions/workflows/ci.yml/badge.svg)](https://github.com/LucasSantana-Dev/homelab/actions) |
 
 _Additional private repos (finance tools, infra dashboards, etc.) — available on request._
