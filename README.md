@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lucas (Luk)</h1>
 <h3 align="center">Senior Software Engineer · Backend-focused Full-Stack · Node.js · TypeScript · AWS</h3>
 <p align="center">
-  Currently at <a href="https://www.thoughtworks.com/">Thoughtworks</a> (Chicago, remote from GMT-3) · 4+ years shipping cloud-native systems for platforms serving 100k+ monthly users.
+  Currently at <a href="https://www.thoughtworks.com/">Thoughtworks</a> (Chicago, remote from GMT-3) · 5+ years shipping cloud-native systems for platforms serving 100k+ monthly users.
 </p>
 
 <p align="center">
