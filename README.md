@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Lucas (Luk)</h1>
-<h3 align="center">Senior Software Engineer · Backend-focused Full-Stack · Node.js · TypeScript · AWS</h3>
+<h3 align="center">Senior Software Engineer · Backend-focused Full-Stack · Node.js · TypeScript · AWS · AI Tooling</h3>
 <p align="center">
   Currently at <a href="https://www.thoughtworks.com/">Thoughtworks</a> (Chicago, remote from GMT-3) · 5+ years shipping cloud-native systems for platforms serving 100k+ monthly users.
 </p>
 
 <p align="center">
+  <a href="https://lucassantana.tech"><img src="https://img.shields.io/badge/Portfolio-lucassantana.tech-000000?style=flat-square&logo=cloudflare&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/devlucassantana/"><img src="https://img.shields.io/badge/LinkedIn-devlucassantana-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:lucas.diassantana@gmail.com"><img src="https://img.shields.io/badge/Email-lucas.diassantana%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/LucasSantana-Dev"><img src="https://img.shields.io/badge/GitHub-LucasSantana--Dev-333333?style=flat-square&logo=github" alt="GitHub"/></a>
+  <a href="https://pypi.org/project/hitgate"><img src="https://img.shields.io/pypi/v/hitgate?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="hitgate on PyPI"/></a>
   <img src="https://img.shields.io/badge/English-C2-2b9348?style=flat-square" alt="English C2"/>
 </p>
 
@@ -15,7 +16,7 @@
 
 ## What I do
 
-I build secure, scalable cloud-native backends and the full-stack interfaces that sit on top of them. Day job is senior consulting work at **Thoughtworks** — two years of it also at **CI&T** before that, so I'm comfortable in international cross-functional teams with tight review cultures. Off-hours I run a homelab, ship Discord bots with real users, and write AI-developer tooling.
+I build secure, scalable cloud-native backends and the full-stack interfaces that sit on top of them. Day job is senior consulting work at **Thoughtworks** — two years of it also at **CI&T** before that, so I'm comfortable in international cross-functional teams with tight review cultures. Off-hours I run a homelab, ship Discord bots with real users, and write AI-developer tooling — including RAG evaluation engines and coding-agent skill systems.
 
 **Impact highlights:**
 - **100k+ monthly users** supported on backend infra I built/maintained (Node.js + AWS Lambda)
@@ -31,8 +32,9 @@ I build secure, scalable cloud-native backends and the full-stack interfaces tha
 | Project | What it does | Stack | |
 |---------|--------------|-------|---|
 | [**Lucky**](https://github.com/LucasSantana-Dev/Lucky) | Self-hosted Discord music bot — Spotify stats, autoplay recommendations, React dashboard, moderation suite | TypeScript · Prisma · Discord.js | [![CI](https://github.com/LucasSantana-Dev/Lucky/actions/workflows/ci.yml/badge.svg)](https://github.com/LucasSantana-Dev/Lucky/actions) |
-| [**LinkedIn Engage**](https://github.com/LucasSantana-Dev/linkedin-engage) | Chrome extension — AI-powered LinkedIn comments (Groq), connection automation, job pre-fill. 423 tests | TypeScript · Chrome MV3 | [![Stars](https://img.shields.io/github/stars/LucasSantana-Dev/linkedin-engage?style=flat-square)](https://github.com/LucasSantana-Dev/linkedin-engage) |
+| [**hitgate**](https://github.com/LucasSantana-Dev/hitgate) | Portable hybrid RAG evaluation harness — BM25 + dense + RRF retrieval, label-free eval, CI-ready. Available on PyPI. | Python · Sentence Transformers · BM25 | [![PyPI](https://img.shields.io/pypi/v/hitgate?style=flat-square&logo=pypi)](https://pypi.org/project/hitgate) |
 | [**ForgeKit**](https://github.com/LucasSantana-Dev/forgekit) | AI dev toolkit — rules, skills, and setup for Claude Code, Codex, Cursor, Windsurf, and Copilot | TypeScript · Node.js | [![Stars](https://img.shields.io/github/stars/LucasSantana-Dev/forgekit?style=flat-square)](https://github.com/LucasSantana-Dev/forgekit) |
+| [**LinkedIn Engage**](https://github.com/LucasSantana-Dev/linkedin-engage) | Chrome extension — AI-powered LinkedIn comments (Groq), connection automation, job pre-fill. 423 tests | TypeScript · Chrome MV3 | [![Stars](https://img.shields.io/github/stars/LucasSantana-Dev/linkedin-engage?style=flat-square)](https://github.com/LucasSantana-Dev/linkedin-engage) |
 | [**homelab**](https://github.com/LucasSantana-Dev/homelab) | Self-hosted infra — Docker Compose, Caddy, Tailscale, Prometheus/Grafana, SOPS | Python · Bash · Docker | [![CI](https://github.com/LucasSantana-Dev/homelab/actions/workflows/ci.yml/badge.svg)](https://github.com/LucasSantana-Dev/homelab/actions) |
 
 _Additional private repos (finance tools, infra dashboards, etc.) — available on request._
@@ -45,6 +47,7 @@ _Additional private repos (finance tools, infra dashboards, etc.) — available 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" title="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" title="AWS (Lambda, S3, API Gateway, SSM, CloudWatch, EventBridge)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
