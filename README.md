@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lucas (Luk)</h1>
-<h3 align="center">Senior Software Engineer · Backend-focused Full-Stack · Node.js · TypeScript · AWS · AI Tooling</h3>
+<h3 align="center">Senior Software Engineer · Backend-focused Full-Stack · Node.js · TypeScript · AWS · Cloudflare · AI Tooling</h3>
 <p align="center">
   Currently at <a href="https://www.thoughtworks.com/">Thoughtworks</a> (Chicago, remote from GMT-3) · 5+ years shipping cloud-native systems for platforms serving 100k+ monthly users.
 </p>
@@ -16,7 +16,7 @@
 
 ## What I do
 
-I build secure, scalable cloud-native backends and the full-stack interfaces that sit on top of them. Day job is senior consulting work at **Thoughtworks** — two years of it also at **CI&T** before that, so I'm comfortable in international cross-functional teams with tight review cultures. Off-hours I run a homelab, ship Discord bots with real users, and write AI-developer tooling — including RAG evaluation engines and coding-agent skill systems.
+I build secure, scalable cloud-native backends and the full-stack interfaces on top of them. Day job is senior consulting at **Thoughtworks** — previously at **CI&T** — so I'm comfortable in international cross-functional teams with tight review cultures. Off-hours I run a homelab, ship Discord bots with real users, publish AI-developer tooling on npm and PyPI (RAG evaluation engines, coding-agent skill kits, Cloudflare-deployed apps), and maintain an open-source community platform for Brazilian developers.
 
 **Impact highlights:**
 - **100k+ monthly users** supported on backend infra I built/maintained (Node.js + AWS Lambda)
@@ -31,6 +31,8 @@ I build secure, scalable cloud-native backends and the full-stack interfaces tha
 
 | Project | What it does | Stack | |
 |---------|--------------|-------|---|
+| [**sharekit**](https://github.com/LucasSantana-Dev/sharekit) | Share your AI coding setup — CLAUDE.md, skills, cursorrules — with one command. `npx @lucassantana/sharekit install lucassantana` | Node.js · CLI | [![npm](https://img.shields.io/npm/v/@lucassantana/sharekit?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@lucassantana/sharekit) |
+| [**repaint**](https://github.com/LucasSantana-Dev/repaint) | Claude Code skill for frontend UI that doesn't look AI-made — design tokens, reference library, live browser slop-audit loop | Bash · Node.js | [![Stars](https://img.shields.io/github/stars/LucasSantana-Dev/repaint?style=flat-square)](https://github.com/LucasSantana-Dev/repaint) |
 | [**Lucky**](https://github.com/LucasSantana-Dev/Lucky) | Self-hosted Discord music bot — Spotify stats, autoplay recommendations, React dashboard, moderation suite | TypeScript · Prisma · Discord.js | [![CI](https://github.com/LucasSantana-Dev/Lucky/actions/workflows/ci.yml/badge.svg)](https://github.com/LucasSantana-Dev/Lucky/actions) |
 | [**hitgate**](https://github.com/LucasSantana-Dev/hitgate) | Portable hybrid RAG evaluation harness — BM25 + dense + RRF retrieval, label-free eval, CI-ready. Available on PyPI. | Python · Sentence Transformers · BM25 | [![PyPI](https://img.shields.io/pypi/v/hitgate?style=flat-square&logo=pypi)](https://pypi.org/project/hitgate) |
 | [**ForgeKit**](https://github.com/LucasSantana-Dev/forgekit) | AI dev toolkit — rules, skills, and setup for Claude Code, Codex, Cursor, Windsurf, and Copilot | TypeScript · Node.js | [![Stars](https://img.shields.io/github/stars/LucasSantana-Dev/forgekit?style=flat-square)](https://github.com/LucasSantana-Dev/forgekit) |
@@ -54,6 +56,7 @@ _Additional private repos (finance tools, infra dashboards, etc.) — available 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" title="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="36" title="Prisma ORM"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="36" title="Cloudflare Workers + Pages"/>
 </p>
 
 ### Frontend
