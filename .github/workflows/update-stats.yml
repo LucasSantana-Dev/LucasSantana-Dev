@@ -21,8 +21,14 @@ jobs:
       # what the README used to request inline.
       - name: Fetch cards
         env:
-          BASE: https://github-stats-extended.vercel.app
+          # Self-hosted instance on the homelab. The public instance
+          # authenticates with a public-only token, so private repos were
+          # invisible and the language shares read wrong.
+          BASE: https://stats.luk-homeserver.com.br
           USER: ${{ github.repository_owner }}
+          # Caddy refuses requests without this. The instance is reachable from
+          # the internet and the app has no auth of its own.
+          STATS_KEY: ${{ secrets.STATS_KEY }}
         run: |
           set -euo pipefail
           mkdir -p profile
@@ -30,7 +36,7 @@ jobs:
             local url="$1" out="$2" tmp
             tmp="$(mktemp)"
             curl -sS --fail --location --retry 3 --retry-delay 5 \
-                 --max-time 30 "$url" -o "$tmp"
+                 --max-time 30 -H "X-Stats-Key: $STATS_KEY" "$url" -o "$tmp"
             # A truncated or error response would otherwise be committed as a
             # broken card, so require a real SVG of plausible size.
             if ! head -c 512 "$tmp" | grep -q '<svg'; then
@@ -44,8 +50,9 @@ jobs:
           }
           fetch "$BASE/api?username=$USER&theme=dark&hide_border=true&count_private=true&show_icons=true" profile/stats.svg
           # hide= drops markup/template/styling file types that inflate the card
-          # without saying anything about what I actually build.
-          fetch "$BASE/api/top-langs/?username=$USER&theme=dark&hide_border=true&layout=compact&langs_count=6&hide=html,css,scss,less,astro,vue,svelte,handlebars,ejs,mdx" profile/top-langs.svg
+          # without saying anything about what I actually build. Seven slots
+          # because Rust lands at #7 once private repos are counted.
+          fetch "$BASE/api/top-langs/?username=$USER&theme=dark&hide_border=true&layout=compact&langs_count=7&hide=html,css,scss,less,astro,vue,svelte,handlebars,ejs,mdx" profile/top-langs.svg
 
       # main requires the CodeRabbit status check, so a bot push there is
       # rejected (GH006). Same pattern as snake.yml: publish to a branch.
