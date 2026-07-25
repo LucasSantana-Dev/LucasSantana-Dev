@@ -105,6 +105,4 @@ _Additional private repos (finance tools, infra dashboards, etc.) — available 
   <a href="https://github.com/stats-organization/github-stats-extended"><img height="160" src="https://raw.githubusercontent.com/LucasSantana-Dev/LucasSantana-Dev/cards/top-langs.svg" alt="Top languages"/></a>
 </p>
 
-<p align="center"><sub>Cards by <a href="https://github.com/stats-organization/github-stats-extended">github-stats-extended</a></sub></p>
-
 <img src="https://raw.githubusercontent.com/LucasSantana-Dev/LucasSantana-Dev/output/snake.svg" alt="Snake animation" />
