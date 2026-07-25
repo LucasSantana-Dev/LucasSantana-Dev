@@ -43,7 +43,9 @@ jobs:
             echo "$out: $(wc -c <"$out") bytes"
           }
           fetch "$BASE/api?username=$USER&theme=dark&hide_border=true&count_private=true&show_icons=true" profile/stats.svg
-          fetch "$BASE/api/top-langs/?username=$USER&theme=dark&hide_border=true&layout=compact&langs_count=8" profile/top-langs.svg
+          # hide= drops markup/template/styling file types that inflate the card
+          # without saying anything about what I actually build.
+          fetch "$BASE/api/top-langs/?username=$USER&theme=dark&hide_border=true&layout=compact&langs_count=6&hide=html,css,scss,less,astro,vue,svelte,handlebars,ejs,mdx" profile/top-langs.svg
 
       # main requires the CodeRabbit status check, so a bot push there is
       # rejected (GH006). Same pattern as snake.yml: publish to a branch.
