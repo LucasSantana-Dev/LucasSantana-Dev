@@ -101,8 +101,8 @@ _Additional private repos (finance tools, infra dashboards, etc.) — available 
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended"><img height="160" src="https://github-stats-extended.vercel.app/api?username=LucasSantana-Dev&theme=dark&hide_border=true&count_private=true&show_icons=true" alt="GitHub stats"/></a>
-  <a href="https://github.com/stats-organization/github-stats-extended"><img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasSantana-Dev&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top languages"/></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img height="160" src="https://raw.githubusercontent.com/LucasSantana-Dev/LucasSantana-Dev/cards/stats.svg" alt="GitHub stats"/></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img height="160" src="https://raw.githubusercontent.com/LucasSantana-Dev/LucasSantana-Dev/cards/top-langs.svg" alt="Top languages"/></a>
 </p>
 
 <p align="center"><sub>Cards by <a href="https://github.com/stats-organization/github-stats-extended">github-stats-extended</a></sub></p>
