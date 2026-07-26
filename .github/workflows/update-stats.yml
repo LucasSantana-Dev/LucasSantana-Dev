@@ -49,10 +49,13 @@ jobs:
             echo "$out: $(wc -c <"$out") bytes"
           }
           fetch "$BASE/api?username=$USER&theme=dark&hide_border=true&count_private=true&show_icons=true" profile/stats.svg
+          # No trailing slash on /api/top-langs: the app routes with an exact
+          # path match, so /api/top-langs/ is a 404. The public Vercel instance
+          # normalised that for us; the self-hosted Express app does not.
           # hide= drops markup/template/styling file types that inflate the card
           # without saying anything about what I actually build. Seven slots
           # because Rust lands at #7 once private repos are counted.
-          fetch "$BASE/api/top-langs/?username=$USER&theme=dark&hide_border=true&layout=compact&langs_count=7&hide=html,css,scss,less,astro,vue,svelte,handlebars,ejs,mdx" profile/top-langs.svg
+          fetch "$BASE/api/top-langs?username=$USER&theme=dark&hide_border=true&layout=compact&langs_count=7&hide=html,css,scss,less,astro,vue,svelte,handlebars,ejs,mdx" profile/top-langs.svg
 
       # main requires the CodeRabbit status check, so a bot push there is
       # rejected (GH006). Same pattern as snake.yml: publish to a branch.
