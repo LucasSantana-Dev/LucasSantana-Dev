@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lucas (Luk)</h1>
 <h3 align="center">Senior Software Engineer · Backend-focused Full-Stack · Node.js · TypeScript · AWS · Cloudflare · AI Tooling</h3>
 <p align="center">
-  Currently at <a href="https://www.thoughtworks.com/">Thoughtworks</a> (Chicago, remote from GMT-3) · 5+ years shipping cloud-native systems for platforms serving 100k+ monthly users.
+  Currently at <a href="https://www.thoughtworks.com/">Thoughtworks</a> (remote from Brazil, UTC-3) · 5+ years shipping cloud-native systems for platforms serving 100k+ monthly users.
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/devlucassantana/"><img src="https://img.shields.io/badge/LinkedIn-devlucassantana-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:lucas.diassantana@gmail.com"><img src="https://img.shields.io/badge/Email-lucas.diassantana%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://pypi.org/project/hitgate"><img src="https://img.shields.io/pypi/v/hitgate?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="hitgate on PyPI"/></a>
-  <img src="https://img.shields.io/badge/English-C2-2b9348?style=flat-square" alt="English C2"/>
+  <img src="https://img.shields.io/badge/English-C1-2b9348?style=flat-square" alt="English C1"/>
 </p>
 
 ---
@@ -20,10 +20,9 @@ I build secure, scalable cloud-native backends and the full-stack interfaces on 
 
 **Impact highlights:**
 - **100k+ monthly users** supported on backend infra I built/maintained (Node.js + AWS Lambda)
-- **Deployment time 6h → 2h** (−30%) by moving to serverless + tuning CI/CD
-- **Incident response +40%** faster via Splunk/CloudWatch observability
-- **Production errors −25%** through Mocha/Jest unit + integration coverage
-- **Internal workflow efficiency +40%** via automations and tool-building
+- **Open-source packages published** on npm and PyPI: [sharekit](https://www.npmjs.com/package/@lucassantana/sharekit) and [hitgate](https://pypi.org/project/hitgate)
+- **Retrieval quality** raised from Hit@5 0.587 to 0.86 in hitgate, with a label-free evaluation gate in CI
+- **Production-grade CI/CD** on Lucky: staging and production deploys, migration gate and mutation testing
 
 ---
 
@@ -91,7 +90,6 @@ _Additional private repos (finance tools, infra dashboards, etc.) — available 
 
 ## Open To
 
-- Senior / Staff full-stack or backend **contract** opportunities (US · EU · Canada)
 - Open-source collaboration on developer tooling, observability, or AI workflows
 - Architecture + system-design discussions — happy to review or pair
 
