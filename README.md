@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lucas (Luk)</h1>
 <h3 align="center">Senior Software Engineer · Backend-focused Full-Stack · Node.js · TypeScript · AWS · Cloudflare · AI Tooling</h3>
 <p align="center">
-  Currently at <a href="https://www.thoughtworks.com/">Thoughtworks</a> (remote from Brazil, UTC-3) · 5+ years shipping cloud-native systems for platforms serving 100k+ monthly users.
+  Currently at <a href="https://www.thoughtworks.com/">Thoughtworks</a> (remote from Brazil, UTC-3) · 5+ years shipping cloud-native systems for international clients.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 I build secure, scalable cloud-native backends and the full-stack interfaces on top of them. Day job is senior consulting at **Thoughtworks** — previously at **CI&T** — so I'm comfortable in international cross-functional teams with tight review cultures. Off-hours I run a homelab, ship Discord bots with real users, publish AI-developer tooling on npm and PyPI (RAG evaluation engines, coding-agent skill kits, Cloudflare-deployed apps), and maintain an open-source community platform for Brazilian developers.
 
 **Impact highlights:**
-- **100k+ monthly users** supported on backend infra I built/maintained (Node.js + AWS Lambda)
+- **Backend for a global consumer brand's mobile app and personalization platform** (Node.js + AWS Lambda)
 - **Open-source packages published** on npm and PyPI: [sharekit](https://www.npmjs.com/package/@lucassantana/sharekit) and [hitgate](https://pypi.org/project/hitgate)
 - **Retrieval quality** raised from Hit@5 0.587 to 0.86 in hitgate, with a label-free evaluation gate in CI
 - **Production-grade CI/CD** on Lucky: staging and production deploys, migration gate and mutation testing
