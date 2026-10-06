@@ -90,7 +90,6 @@ _Additional private repos (finance tools, infra dashboards, etc.) — available 
 
 ## Open To
 
-- Senior / Staff full-stack or backend **contract** opportunities (US · EU · Canada)
 - Open-source collaboration on developer tooling, observability, or AI workflows
 - Architecture + system-design discussions — happy to review or pair
 
