@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lucas (Luk)</h1>
-<h3 align="center">Senior Software Engineer · Backend · AI agent tooling and evals · Node.js · TypeScript · Python</h3>
+<h3 align="center">Senior Software Engineer · Backend-focused Full-Stack · AI agent tooling and evals · Node.js · TypeScript · Python</h3>
 <p align="center">
   Currently at <a href="https://www.thoughtworks.com/">Thoughtworks</a> (remote from Brazil, UTC-3) · 5+ years shipping cloud-native systems for international clients.
 </p>
@@ -16,7 +16,7 @@
 
 ## What I do
 
-I build backends for a living and tools for AI coding agents on the side. I care about measuring those tools: retrieval quality in hitgate, and which tools an agent actually gets in decision-critic.
+I build backend-focused full-stack systems for a living and tools for AI coding agents on the side. I care about measuring those tools: retrieval quality in hitgate, and which tools an agent actually gets in decision-critic.
 
 Day job is senior consulting at Thoughtworks (previously CI&T), on international teams with strict review cultures. Off-hours I run a homelab and a self-hosted Discord bot, and I publish developer tooling on npm and PyPI.
 
