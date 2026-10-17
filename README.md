@@ -21,7 +21,7 @@ I build backend-focused full-stack systems for a living and tools for AI coding 
 Day job is senior consulting at Thoughtworks (previously CI&T), on international teams with strict review cultures. Off-hours I run a homelab and a self-hosted Discord bot, and I publish developer tooling on npm and PyPI.
 
 - [decision-critic](https://github.com/LucasSantana-Dev/decision-critic): a runtime probe showed a Claude Code denylist left 91 MCP tools in place, including one that runs shell commands. The empty allow-list resolved to 0.
-- [hitgate](https://github.com/LucasSantana-Dev/hitgate): Hit@5 raised from 0.587 to 0.86, with a label-free evaluation gate in CI.
+- [hitgate](https://github.com/LucasSantana-Dev/hitgate): hybrid retrieval reaches Hit@5 0.99 on a 99-case benchmark (BM25 alone: 0.91), with a label-free evaluation gate in CI.
 - Backend for a global consumer brand's mobile app and personalization platform (Node.js, AWS Lambda).
 - [Lucky](https://github.com/LucasSantana-Dev/Lucky): staging and production deploys, a migration gate and mutation testing.
 
