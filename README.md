@@ -65,7 +65,7 @@ _Additional private repos (finance tools, infra dashboards) available on request
 - Open-source collaboration on AI agent tooling, evals, or observability
 - Architecture and system-design discussions. Happy to review or pair
 
-📫 **Get in touch:** [lucas.diassantana@gmail.com](mailto:lucas.diassantana@gmail.com) · [LinkedIn](https://www.linkedin.com/in/devlucassantana/)
+**Get in touch:** [lucas.diassantana@gmail.com](mailto:lucas.diassantana@gmail.com) · [LinkedIn](https://www.linkedin.com/in/devlucassantana/)
 
 ---
 
